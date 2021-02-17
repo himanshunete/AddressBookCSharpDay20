@@ -51,7 +51,6 @@ namespace NUnitTestProject1
             }
         }
 
-
         /// <summary>
         /// TC-2 Throw Custom Exception for Invalid LastName
         /// </summary>
